@@ -59,6 +59,18 @@ Arquitectura y operativa de ciberseguridad: modelos de defensa de red, funcionam
 
 ---
 
+### Introduction to Cybersecurity
+**Cisco Networking Academy** · 2025  
+🏅 [View badge on Credly](https://www.credly.com/badges/5dacede4-6b1c-4e36-97df-5f083221cfb5/public_url) · 📄 [Certificate PDF](./certificates/cisco-intro-cybersecurity.pdf)
+
+**🇬🇧 What I learned:**  
+Fundamentals of cybersecurity including types of cyber threats, attack vectors, and basic defense strategies. Covers concepts such as malware, social engineering, network attacks, cryptography basics, and the importance of security policies in organizations.
+
+**🇪🇸 Qué aprendí:**  
+Fundamentos de ciberseguridad: tipos de amenazas, vectores de ataque y estrategias básicas de defensa. Incluye conceptos como malware, ingeniería social, ataques de red, criptografía básica e importancia de las políticas de seguridad en las organizaciones.
+
+---
+
 ### Introduction to OSINT
 **Security Blue Team** · January 2026  
 🏅 [View credential](https://elearning.centri.org/home/certificate/959228394) · 📄 [Certificate PDF](./certificates/intro-osint-sbt.pdf)
@@ -150,6 +162,7 @@ certificates/
     ├── ai-900.pdf
     ├── cloud-security-palo-alto.pdf
     ├── arquitectura-ciberseguridad-telefonica.pdf
+    ├── cisco-intro-cybersecurity.pdf
     ├── intro-osint-sbt.pdf
     ├── aws-amazon-connect-ai-ml.pdf
     ├── aws-prompt-engineering.pdf
