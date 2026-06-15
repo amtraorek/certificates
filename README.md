@@ -13,7 +13,7 @@
 
 ### Cisco Certified Support Technician (CCST) Cybersecurity
 **Cisco Networking Academy** · May 2026 · Valid until May 2031  
-🏅 [View badge on Credly](https://www.credly.com/badges/b6acdac5-c6cd-4d57-9373-48c54c740f8d/public_url) · 📄 [Certificate PDF](./certificates/ccst-cybersecurity.pdf)
+🏅 [View badge on Credly](https://www.credly.com/badges/b6acdac5-c6cd-4d57-9373-48c54c740f8d/public_url) · 📄 [Certificate PDF](./pdfs/ccst-cybersecurity.pdf)
 
 **🇬🇧 What I learned:**  
 Fundamentals of cybersecurity including network security concepts, endpoint security, vulnerability management, and incident response. Covers threat detection, security policies, and basic forensics skills aligned with industry standards.
@@ -25,7 +25,7 @@ Fundamentos de ciberseguridad: seguridad de redes, protección de endpoints, ges
 
 ### Microsoft SC-900: Security, Compliance & Identity Fundamentals
 **Microsoft** · March 2026  
-🏅 [View badge on Credly](https://www.credly.com/badges/ab2918d6-1fc7-4e89-84c1-2ff1ecb1fd17/public_url) · 📄 [Certificate PDF](./certificates/sc-900.pdf)
+🏅 [View badge on Credly](https://www.credly.com/badges/ab2918d6-1fc7-4e89-84c1-2ff1ecb1fd17/public_url) · 📄 [Certificate PDF](./pdfs/sc-900.pdf)
 
 **🇬🇧 What I learned:**  
 Core concepts of security, compliance, and identity within Microsoft and cloud environments. Topics include Azure Active Directory, Zero Trust model, Microsoft Defender, Purview compliance tools, and identity/access management principles.
@@ -37,7 +37,7 @@ Conceptos fundamentales de seguridad, cumplimiento normativo e identidad en ento
 
 ### Cloud Security Fundamentals
 **Palo Alto Networks** · February 2026  
-📄 [Certificate PDF](./certificates/cloud-security-palo-alto.pdf)
+📄 [Certificate PDF](./pdfs/cloud-security-palo-alto.pdf)
 
 **🇬🇧 What I learned:**  
 Foundations of cloud security including shared responsibility models, cloud architecture risks, data protection, identity management in cloud environments, and security best practices for public cloud platforms (AWS, Azure, GCP).
@@ -49,7 +49,7 @@ Fundamentos de seguridad en la nube: modelo de responsabilidad compartida, riesg
 
 ### Arquitectura y operativa de ciberseguridad
 **Fundación Telefónica** · February 2026  
-📄 [Certificate PDF](./certificates/arquitectura-ciberseguridad-telefonica.pdf)
+📄 [Certificate PDF](./pdfs/arquitectura-ciberseguridad-telefonica.pdf)
 
 **🇬🇧 What I learned:**  
 Cybersecurity architecture and operations: network defense models, SOC workflows, SIEM tools, threat intelligence, and the operational side of managing security incidents in enterprise environments.
@@ -61,7 +61,7 @@ Arquitectura y operativa de ciberseguridad: modelos de defensa de red, funcionam
 
 ### Introduction to Cybersecurity
 **Cisco Networking Academy** · 2025  
-🏅 [View badge on Credly](https://www.credly.com/badges/5dacede4-6b1c-4e36-97df-5f083221cfb5/public_url) · 📄 [Certificate PDF](./certificates/cisco-intro-cybersecurity.pdf)
+🏅 [View badge on Credly](https://www.credly.com/badges/5dacede4-6b1c-4e36-97df-5f083221cfb5/public_url) · 📄 [Certificate PDF](./pdfs/cisco-intro-cybersecurity.pdf)
 
 **🇬🇧 What I learned:**  
 Fundamentals of cybersecurity including types of cyber threats, attack vectors, and basic defense strategies. Covers concepts such as malware, social engineering, network attacks, cryptography basics, and the importance of security policies in organizations.
@@ -73,7 +73,7 @@ Fundamentos de ciberseguridad: tipos de amenazas, vectores de ataque y estrategi
 
 ### Introduction to OSINT
 **Security Blue Team** · January 2026  
-🏅 [View credential](https://elearning.centri.org/home/certificate/959228394) · 📄 [Certificate PDF](./certificates/intro-osint-sbt.pdf)
+🏅 [View credential](https://elearning.centri.org/home/certificate/959228394) · 📄 [Certificate PDF](./pdfs/intro-osint-sbt.pdf)
 
 **🇬🇧 What I learned:**  
 Open Source Intelligence (OSINT) techniques for gathering and analyzing publicly available information. Covers tools and methodologies for person/organization investigation, digital footprint analysis, and ethical use of OSINT in cybersecurity investigations.
@@ -89,7 +89,7 @@ Técnicas de inteligencia de fuentes abiertas (OSINT) para recopilar y analizar 
 
 ### Microsoft AI-900: Azure AI Fundamentals
 **Microsoft** · March 2026  
-🏅 [View badge on Credly](https://www.credly.com/badges/35fc4239-35d3-4ff5-b754-9cd76313f89f/public_url) · 📄 [Certificate PDF](./certificates/ai-900.pdf)
+🏅 [View badge on Credly](https://www.credly.com/badges/35fc4239-35d3-4ff5-b754-9cd76313f89f/public_url) · 📄 [Certificate PDF](./pdfs/ai-900.pdf)
 
 **🇬🇧 What I learned:**  
 Fundamentals of artificial intelligence and machine learning on Azure. Topics include ML concepts, computer vision, natural language processing, conversational AI, and Azure AI services such as Cognitive Services and Azure Machine Learning.
@@ -101,7 +101,7 @@ Fundamentos de inteligencia artificial y machine learning en Azure. Incluye conc
 
 ### Amazon Connect AI and ML
 **Amazon Web Services (AWS)** · December 2025  
-📄 [Certificate PDF](./certificates/aws-amazon-connect-ai-ml.pdf)
+📄 [Certificate PDF](./pdfs/aws-amazon-connect-ai-ml.pdf)
 
 **🇬🇧 What I learned:**  
 How AWS integrates AI and ML capabilities into Amazon Connect for intelligent customer service. Covers chatbots with Amazon Lex, sentiment analysis with Contact Lens, real-time transcription, and automated call routing using ML models.
@@ -113,7 +113,7 @@ Cómo AWS integra capacidades de IA y ML en Amazon Connect para atención al cli
 
 ### Essentials of Prompt Engineering
 **Amazon Web Services (AWS)** · December 2025  
-📄 [Certificate PDF](./certificates/aws-prompt-engineering.pdf)
+📄 [Certificate PDF](./pdfs/aws-prompt-engineering.pdf)
 
 **🇬🇧 What I learned:**  
 Core techniques for designing effective prompts for large language models (LLMs). Topics include zero-shot and few-shot prompting, chain-of-thought reasoning, prompt structure, and best practices for interacting with generative AI models in production.
@@ -129,7 +129,7 @@ Técnicas fundamentales para diseñar prompts efectivos para modelos de lenguaje
 
 ### Introduction to Data Science
 **Cisco Networking Academy** · November 2025  
-🏅 [View badge on Credly](https://www.credly.com/badges/e37eacec-fcac-43a0-bfb2-df040ef1bb6e/public_url) · 📄 [Certificate PDF](./certificates/cisco-intro-data-science.pdf)
+🏅 [View badge on Credly](https://www.credly.com/badges/e37eacec-fcac-43a0-bfb2-df040ef1bb6e/public_url) · 📄 [Certificate PDF](./pdfs/cisco-intro-data-science.pdf)
 
 **🇬🇧 What I learned:**  
 Foundations of data science including data collection, cleaning, and visualization. Introduction to Python for data analysis, statistical concepts, and the data science workflow from raw data to insights.
@@ -141,7 +141,7 @@ Fundamentos de ciencia de datos: recolección, limpieza y visualización de dato
 
 ### Introducción a la Ciencia de Datos
 **Santander Open Academy** · November 2025  
-📄 [Certificate PDF](./certificates/santander-ciencia-datos.pdf)
+📄 [Certificate PDF](./pdfs/santander-ciencia-datos.pdf)
 
 **🇬🇧 What I learned:**  
 Introduction to data science concepts including Big Data, Business Intelligence, Business Analytics, and the role of data in modern organizations. Overview of tools and methodologies used in data-driven decision making.
@@ -156,7 +156,7 @@ Introducción a los conceptos de ciencia de datos: Big Data, Business Intelligen
 ```
 certificates/
 ├── README.md
-└── certificates/
+└── pdfs/
     ├── ccst-cybersecurity.pdf
     ├── sc-900.pdf
     ├── ai-900.pdf
