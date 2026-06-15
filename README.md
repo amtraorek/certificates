@@ -160,3 +160,26 @@ certificates/
 ---
 
 *Last updated: June 2026*
+
+---
+
+## 🔗 Applied in Real Projects / Aplicado en Proyectos Reales
+
+Several of these certifications were directly applied in the **[tecnure-serveis](https://github.com/amtraorek/tecnure-serveis)** project — a full IT infrastructure deployment for a real Catalan company, graded **10/10** in SMR:
+
+| Certificate | Applied as |
+|---|---|
+| CCST Cybersecurity | Wazuh SOC (SIEM + agent), Suricata IDS/IPS, Fail2ban, Lynis hardening |
+| SC-900 | Zero Trust model, identity management with Active Directory |
+| AI-900 | Azure AI concepts applied to cloud architecture decisions |
+| Cloud Security (Palo Alto) | Shared responsibility model, cloud security best practices on AWS |
+| OSINT (Security Blue Team) | Internal pentesting methodology with Kali Linux |
+| Prompt Engineering (AWS) | n8n SOAR automation workflows and alert generation |
+
+> Certificates are not just courses — they were the foundation for building a production-grade infrastructure from scratch.
+>
+> Las certificaciones no son solo cursos — fueron la base para construir una infraestructura de nivel profesional desde cero.
+
+---
+
+*Last updated: June 2026*
